@@ -4,9 +4,9 @@ Copyright © 2025 by Noxius (CuddlyMommy)
 This license governs the use of the Minecraft Resource Pack titled "Cuddly's Chibi Players" (hereafter "the Resource Pack") created by Noxius (CuddlyMommy) (hereafter "the Creator"). By downloading, using, or possessing the Resource Pack, you agree to be bound by the terms of this license.
 
 1. Definitions
-Resource Pack: Refers to all files, textures, models, sounds, and any other assets contained within the original .zip or folder distributed by the Creator under the name "[Your Resource Pack Name]".
+Resource Pack: Refers to all files, textures, models, sounds, and any other assets contained within the original .zip or folder distributed by the Creator under the name "Cuddly's Chibi Players".
 
-Creator: Refers to [Your Name/Creator Name], the original author and sole copyright holder of the Resource Pack.
+Creator: Refers to Noxius (CuddlyMommy), the original author and sole copyright holder of the Resource Pack.
 
 User: Refers to any individual or entity who downloads, possesses, or uses the Resource Pack.
 
@@ -23,7 +23,7 @@ As a User, you are granted the following limited and non-exclusive permissions:
 
 2.3 Use in Media Content (with Strict Conditions): You may use the Resource Pack in Media Content, provided that all of the following conditions are met:
 
-a. Credit: You must provide clear and unambiguous credit to the Creator ("[Your Name/Creator Name]") and the Resource Pack ("[Your Resource Pack Name]") within the Media Content's description, accompanying text, or overlay.
+a. Credit: You must provide clear and unambiguous credit to the Creator ("Noxius (CuddlyMommy)") and the Resource Pack ("Cuddly's Chibi Players") within the Media Content's description, accompanying text, or overlay.
 
 b. Accessibility of Official Link: You must make the Resource Pack's Official Download Link easily and readily accessible to viewers/readers/listeners. This includes, but is not limited to:
 
