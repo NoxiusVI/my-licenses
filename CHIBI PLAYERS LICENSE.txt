@@ -31,7 +31,7 @@ For Videos/Descriptions: Placing a direct, clickable link to the Official Downlo
 
 For Livestreams: Having a readily available bot command (e.g., !resourcepack, !rp, !packs) that provides a list of the Creator's Official Download Links, and/or consistently displaying the link in a stream overlay.
 
-For Image-Based Platforms (Instagram, Twitter, TikTok): Clearly stating "Resource Pack by [Your Name/Creator Name]" and directing viewers to a link in your profile bio, or directly in the post if the platform allows it.
+For Image-Based Platforms (Instagram, Twitter, TikTok): Clearly stating "Cuddly's Chibi Players Resource Pack by Noxius (CuddlyMommy)" and directing viewers to a link in your profile bio, or directly in the post if the platform allows it.
 
 c. Non-Commercial Content (with exceptions): This Media Content may be monetized through standard platform mechanisms (e.g., YouTube ad revenue, Twitch subscriptions, creator funds) as long as the Resource Pack itself is not sold, rented, or directly monetized beyond the platform's standard revenue share.
 
