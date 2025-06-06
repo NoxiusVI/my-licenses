@@ -1,0 +1,70 @@
+CUSTOM LICENSE - Cuddly's Chibi Players - All Rights Reserved
+Copyright © 2025 by Noxius (CuddlyMommy)
+
+This license governs the use of the Minecraft Resource Pack titled "Cuddly's Chibi Players" (hereafter "the Resource Pack") created by Noxius (CuddlyMommy) (hereafter "the Creator"). By downloading, using, or possessing the Resource Pack, you agree to be bound by the terms of this license.
+
+1. Definitions
+Resource Pack: Refers to all files, textures, models, sounds, and any other assets contained within the original .zip or folder distributed by the Creator under the name "[Your Resource Pack Name]".
+
+Creator: Refers to [Your Name/Creator Name], the original author and sole copyright holder of the Resource Pack.
+
+User: Refers to any individual or entity who downloads, possesses, or uses the Resource Pack.
+
+Media Content: Refers to any video, image, audio, or interactive content where the Resource Pack is visibly or audibly displayed (e.g., YouTube videos, Twitch livestreams, Instagram posts, TikToks, Twitter posts, art, screenshots, etc.).
+
+Official Download Link: Refers to the specific URL(s) provided by the Creator for legitimate download of the Resource Pack, such as a Planet Minecraft page, CurseForge page, or a personal website link.
+
+2. Permissions (What You ARE Allowed To Do)
+As a User, you are granted the following limited and non-exclusive permissions:
+
+2.1 Personal Use: You may download and use the Resource Pack within your personal Minecraft game client for private, non-commercial enjoyment.
+
+2.2 Personal Modifications: You may modify the Resource Pack for your own personal use only. These modified versions must not be distributed, shared, or made available to others in any form.
+
+2.3 Use in Media Content (with Strict Conditions): You may use the Resource Pack in Media Content, provided that all of the following conditions are met:
+
+a. Credit: You must provide clear and unambiguous credit to the Creator ("[Your Name/Creator Name]") and the Resource Pack ("[Your Resource Pack Name]") within the Media Content's description, accompanying text, or overlay.
+
+b. Accessibility of Official Link: You must make the Resource Pack's Official Download Link easily and readily accessible to viewers/readers/listeners. This includes, but is not limited to:
+
+For Videos/Descriptions: Placing a direct, clickable link to the Official Download Link at the very top of the video description (or clearly visible in the top section before "show more").
+
+For Livestreams: Having a readily available bot command (e.g., !resourcepack, !rp, !packs) that provides a list of the Creator's Official Download Links, and/or consistently displaying the link in a stream overlay.
+
+For Image-Based Platforms (Instagram, Twitter, TikTok): Clearly stating "Resource Pack by [Your Name/Creator Name]" and directing viewers to a link in your profile bio, or directly in the post if the platform allows it.
+
+c. Non-Commercial Content (with exceptions): This Media Content may be monetized through standard platform mechanisms (e.g., YouTube ad revenue, Twitch subscriptions, creator funds) as long as the Resource Pack itself is not sold, rented, or directly monetized beyond the platform's standard revenue share.
+
+d. No Direct Downloads: The Media Content itself, or any associated links (other than the Creator's Official Download Link), must not offer direct downloads of the Resource Pack.
+
+2.4 Server Use: You may include the Resource Pack on a Minecraft server for players to download and use while playing on that server, provided that the server is non-commercial, and the server's public description and/or website prominently displays the Creator's name and the Resource Pack's Official Download Link.
+
+3. Restrictions (What You ARE NOT Allowed To Do) - ALL RIGHTS RESERVED
+The Resource Pack is protected by copyright. As a User, you are expressly prohibited from the following actions, and all rights not explicitly granted in Section 2 are reserved by the Creator:
+
+3.1 Distribution: You may not distribute, share, re-upload, or make available for download the Resource Pack, in its original or any modified form, on any website, platform, file-sharing service, or by any other means, without the Creator's explicit prior written permission.
+
+3.2 Copying (Beyond Personal Use): You may not make copies of the Resource Pack for distribution or for any purpose other than personal use within your Minecraft client.
+
+3.3 Modification for Distribution: You may not modify, alter, adapt, create derivative works from, or otherwise change the Resource Pack, in whole or in part, for the purpose of distribution or redistribution, without the Creator's explicit prior written permission. Any modification for personal use (as permitted in Section 2.2) is allowed, but these modified versions must not be distributed or shared with others.
+
+3.4 Commercial Use: You may not use the Resource Pack, in whole or in part, for any commercial purpose (e.g., selling the Resource Pack, selling derivatives, using it in paid advertisements not covered by 2.3, using it in paid games/products) without explicit prior written permission from the Creator.
+
+3.5 Claiming Ownership/Authorship: You may not claim to be the original creator, author, or copyright holder of the Resource Pack or any of its assets.
+
+3.6 Removing Credit/License: You may not remove or obscure any included credit, copyright notices, or license files within the Resource Pack.
+
+3.7 Using Ad-links/Monetization for Unofficial Links: You may not use URL shorteners that include advertisements (e.g., AdFly, Linkvertise) or any other monetization methods when linking to the Resource Pack from unofficial sources, or when using it in ways not explicitly permitted.
+
+4. Termination
+Your rights under this license will terminate automatically without notice from the Creator if you fail to comply with any of its terms. Upon termination, you must immediately cease all use and distribution of the Resource Pack and destroy all copies, original and modified, in your possession. The Creator reserves the right to take legal action for any breach of these terms.
+
+5. Disclaimer
+The Resource Pack is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Creator be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Resource Pack or the use or other dealings in the Resource Pack.
+
+6. Contact & Permissions
+For any questions regarding this license, or to request explicit written permission for actions not permitted herein (e.g., commercial use, modification for redistribution, unauthorized distribution), please contact the Creator at:
+
+Email: noxius.inquiries@gmail.com
+
+Thank you for respecting the Creator's work and supporting its continued development.
